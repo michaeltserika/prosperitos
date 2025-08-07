@@ -3,7 +3,7 @@
 
 const axios = require('axios');
 
-const BASE_URL = 'http://localhost:4000';
+const BASE_URL = 'https://prosperian.onrender.com';
 
 async function testWorkflowEndpoint() {
   console.log('🧪 Test de l\'endpoint workflow global Pronto');

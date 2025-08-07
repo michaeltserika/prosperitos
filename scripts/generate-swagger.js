@@ -28,7 +28,7 @@ function parseSwaggerComments(comments) {
     },
     servers: [
       {
-        url: 'http://localhost:4000',
+        url: 'https://prosperian.onrender.com',
         description: 'Serveur de développement'
       }
     ],
